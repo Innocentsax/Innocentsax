@@ -1,7 +1,6 @@
-[![MasterHead](https://www.tapscape.com/wp-content/uploads/2021/11/Black-hats-are-out-of-fashion-these-days-or-why-hackers-prefer-to-play-for-whites.png)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYdFDtKHAy2cLBXyxK-Bj9jCAASjmDPOVjOA&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZfLgzhlsIEHAnJh5sXCvcVvpT2QYlGrw8_d7wPQQHMKeIPPvkEYDE7EjKJOOGfKOuGs&usqp=CAU">
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO36bEq-IMNBMMaQgkqW2gXt48WlO2GuojPcsanul2dgj0YMDrVakUYfOzt_7FRaPBRY&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
