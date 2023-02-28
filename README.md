@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udo-innocent-charles-2452b6200](https://www.linkedin.com/in/udo-innocent-charles-2452b6200)
 
-- 💬 Ask me about **Any topic in C-programming**
+- 💬 Ask me about **Any topic in C-programming and Python**
 
 - 📫 How to reach me **Innocentcharlesudo@gmail.com**
 
