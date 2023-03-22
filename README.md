@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentsax" alt="innocentsax" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" /></a> </p>
-
 - 🌱 I’m currently learning **C-Programming and Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udo-innocent-charles-2452b6200](https://www.linkedin.com/in/udo-innocent-charles-2452b6200)
