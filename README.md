@@ -1,8 +1,10 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="left">A passionate Full Stack developer from Nigeria</h3>
+<!--
 <img align="left" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+-->
+<img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
@@ -23,7 +25,7 @@
 <a href="https://instagram.com/saxinnocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
 </p>
 
-<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
+<img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
 <br clear='all'/>
 
 <h3 align="left">Languages and Tools:</h3>
