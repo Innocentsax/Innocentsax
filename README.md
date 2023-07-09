@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Java, C-Programming and Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udo-innocent-charles](https://www.linkedin.com/in/udo-innocent-charles)
+- 👨‍💻 All of my projects are available at [HackerRank](https://www.hackerrank.com/innocentcharles2?hr_r=1)
 
 - 💬 Ask me about **Any topic in Java, C-programming and Python**
 
-- 📫 How to reach me **Innocentcharlesudo@gmail.com**
+- 📫 How to reach me **[Email](innocentcharlesudo@gmail.com), [Whatsapp number](08163093928)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
