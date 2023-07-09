@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentsax" alt="innocentsax" /></a> </p>
 
-- 🌱 I’m currently learning **C-Programming and Python**
+- 🌱 I’m currently learning **Java, C-Programming and Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udo-innocent-charles-2452b6200](https://www.linkedin.com/in/udo-innocent-charles-2452b6200)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udo-innocent-charles](https://www.linkedin.com/in/udo-innocent-charles)
 
-- 💬 Ask me about **Any topic in C-programming and Python**
+- 💬 Ask me about **Any topic in Java, C-programming and Python**
 
 - 📫 How to reach me **Innocentcharlesudo@gmail.com**
 
