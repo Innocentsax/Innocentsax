@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Python+Developer+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
