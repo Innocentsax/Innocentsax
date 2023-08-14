@@ -1,13 +1,14 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="left">A passionate Full Stack developer from Nigeria</h3>
 
 <!--
 <img align="left" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
--->
+
 <img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
