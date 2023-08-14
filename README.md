@@ -1,8 +1,8 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
-
 <img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
 
-<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)-->
+<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
+-->
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="left">A passionate Full Stack developer from Nigeria</h3>
 
