@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentsax&show_icons=true&locale=en&layout=compact" alt="innocentsax" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/UZE6BxxLnCs9tZ0lJBFeSCQE?username=innocentsax&show_icons=true&locale=en" alt="innocentsax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innocentsax&show_icons=true&locale=en" alt="innocentsax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentsax&" alt="innocentsax" /></p>
