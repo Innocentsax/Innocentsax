@@ -7,7 +7,7 @@
 
 <img src="https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png" height="300"> <img src="https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png" height="320"> -->
 
-[![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals) 
+[![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals) 
 
 
 
