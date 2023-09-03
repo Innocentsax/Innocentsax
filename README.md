@@ -4,11 +4,11 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="left">A passionate Full Stack developer from Nigeria</h3>
+-->
 
+<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png" height="300"> <img src="https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png" height="320">
 
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png" height="300"> <img src="https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png" height="320"> -->
-
-[![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals) [![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)
+<!-- [![Algo_badge](https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals) [![OOP badge](https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java) -->
 
 
 
