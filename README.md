@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 <h3 align="left">A passionate Full Stack developer from Nigeria</h3>
 -->
+
+<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Algo_badge_Award.png"> <img src="https://github.com/Innocentsax/Innocentsax/blob/main/OOP%20badge%20Award.png">
+
+
 ## My Portfolio 👇
  + #  ___[My_3D_Amazing_Portfolio](https://innocentudo.netlify.app/)___
  + #  ___[My_Simple_Portfolio](https://udoinnocent.netlify.app/)___
