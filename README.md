@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Any topic in Java, C-programming and Python**
 
-- 📫 How to reach me **[Email](innocentcharlesudo@gmail.com), [Whatsapp number](08163093928)**
+- 📫 How to reach me **[Email](innocentcharlesudo@gmail.com), [Whatsapp number](https://wa.me/qr/3KRXFJ7Q624CJ1)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
