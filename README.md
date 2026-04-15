@@ -1,4 +1,4 @@
-# Hi 👋, I'm Innocent Udo
+# Hi 👋, I'm INNOCENT UDO
 ### Senior Software Engineer | Java & Fintech Specialist
 
 <p align="left">
