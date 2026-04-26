@@ -1,5 +1,6 @@
 # Hi 👋, I'm INNOCENT UDO
 ### Senior Software Engineer | Java & Fintech Specialist.
+## [My Intro Video](https://www.loom.com/share/a001dfd509a94f8a9aa95286eaae743f)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat-square" alt="Innocent Udo Views" />
