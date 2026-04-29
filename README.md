@@ -1,4 +1,4 @@
-# Hi 👋, I'm INNOCENT UDO
+# Hi 👋, I'm INNOCENT UDO.
 ### Senior Software Engineer | Java & Fintech Specialist.
 ## [My Intro Video](https://www.loom.com/share/a001dfd509a94f8a9aa95286eaae743f)
 
